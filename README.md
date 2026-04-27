@@ -1,7 +1,7 @@
 # FFHQ-2048 — NanoPocket Enhanced
 
 > **The first new high-quality public face dataset since 2019.**
-> 1,000 sharp, artifact-free **2048×2048** portraits, derived from FFHQ and re-mastered with the [NanoPocket Face Enhance](mailto:marketing@nanopocket.ai) model.
+> 1,000 sharp, artifact-free **2048×2048** portraits, derived from FFHQ and re-mastered with the [NanoPocket Face Enhance]([nanopocket.ai](https://nanopocket.ai/)) model.
 
 <p align="center">
   <a href="https://huggingface.co/datasets/Nanopocket-ai/FFHQ-2048">
