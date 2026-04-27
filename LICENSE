@@ -1,0 +1,77 @@
+FFHQ-2048 (NanoPocket Enhanced) — License Notice
+=================================================
+
+This dataset is a derivative work of NVIDIA's Flickr-Faces-HQ (FFHQ) dataset,
+re-mastered to 2048x2048 by NanoPocket Face Enhance.
+
+Per FFHQ's license terms we (a) inherit the same license, and (b) clearly
+indicate the changes we made.
+
+Indicated changes
+-----------------
+Every image in this release has been:
+  * upscaled 2x (from 1024x1024 to 2048x2048), and
+  * detail-enhanced by the NanoPocket Face Enhance model.
+
+No re-cropping, re-alignment, or content edits beyond enhancement were
+performed. Filenames are preserved (00000.png .. 00999.png) so each image
+maps 1:1 to the original FFHQ index.
+
+Per-image source licenses
+-------------------------
+The underlying photographs were originally collected from Flickr by the FFHQ
+authors and are individually distributed under one of:
+  * CC BY 2.0           https://creativecommons.org/licenses/by/2.0/
+  * CC BY-NC 2.0        https://creativecommons.org/licenses/by-nc/2.0/
+  * Public Domain Mark 1.0  https://creativecommons.org/publicdomain/mark/1.0/
+  * CC0 1.0             https://creativecommons.org/publicdomain/zero/1.0/
+  * U.S. Government Works  http://www.usa.gov/copyright.shtml
+
+Per-image author and license metadata are recorded in the upstream
+ffhq-dataset-v2.json file:
+  https://github.com/NVlabs/ffhq-dataset
+
+Dataset license
+---------------
+This release is distributed under
+
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    (CC BY-NC-SA 4.0)
+
+You are free to:
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  * Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+  * NonCommercial — You may not use the material for commercial purposes.
+  * ShareAlike — If you remix, transform, or build upon the material, you
+    must distribute your contributions under the same license as the
+    original.
+
+The full license text is available at:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Important — Not for facial recognition
+--------------------------------------
+Reproducing NVIDIA's explicit clause: this dataset is not intended for, and
+should not be used for, the development or improvement of facial recognition
+technologies.
+
+Privacy and removal requests
+----------------------------
+We respect the same privacy / opt-out process as the upstream FFHQ dataset.
+To request removal of a photo of yourself, see the "Privacy & removal
+requests" section of README.md.
+
+Citation
+--------
+If you use this dataset, please cite both the original FFHQ paper and this
+release. See the "Citation" section of README.md for BibTeX.
+
+Contact
+-------
+marketing@nanopocket.ai

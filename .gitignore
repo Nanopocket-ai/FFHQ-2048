@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# downloaded artefacts produced by quickstart.py
+ffhq2048_*.png
+hf_snapshot/
